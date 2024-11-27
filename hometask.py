@@ -13,7 +13,7 @@ while True:
     except ValueError:
         pass
 
-log_x, log_y, sq_x, sq_y, x, y, a_y = [], [], [], [], [], [], []
+log_x, log_y, sq_x, sq_y = [], [], [], []
 
 
 for i in range(-1500, 1500):
